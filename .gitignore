@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# END PYTHON TEMPLATE
+# START BOOYAH'S .GITIGNORE
+books/
